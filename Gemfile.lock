@@ -8,6 +8,10 @@ GEM
       addressable
     diff-lcs (1.4.4)
     method_source (1.0.0)
+    mini_portile2 (2.5.3)
+    nokogiri (1.11.1)
+      mini_portile2 (~> 2.5.0)
+      racc (~> 1.4)
     nokogiri (1.11.1-x86_64-linux)
       racc (~> 1.4)
     pry (0.14.0)
@@ -30,6 +34,7 @@ GEM
     rspec-support (3.10.2)
 
 PLATFORMS
+  ruby
   x86_64-linux
 
 DEPENDENCIES
